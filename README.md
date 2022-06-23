@@ -2,7 +2,7 @@
 BSPD PCB design for our FS ICE car for FS UK 2022 , NUST STUDENT FORMULA TEAM.
 The BPS and TPS signals are compared to voltage levels set using the Pots and the delays required are achieved using RC circuits.
 
-This design was made according the 2022 Formula Student UK rulebook.
+This design was made to comply with the 2022 Formula Student UK rulebook.
 
 <H2>T11.6 Brake System Plausibility Device<H2>
 
@@ -33,3 +33,5 @@ T11.6.8 All necessary signals are System Critical Signal (SCS), see T11.9.
 
 
 ![alt text](https://github.com/Holo1123/BSPD-NFST-FS-UK-2022/blob/main/easyeda_7TEWsL2oap.png?raw=true)
+![alt text](https://github.com/Holo1123/BSPD-NFST-FS-UK-2022/blob/main/Schematic_PC%20n_2022-06-23.png?raw=true)
+  
